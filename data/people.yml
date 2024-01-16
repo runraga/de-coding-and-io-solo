@@ -1,0 +1,204 @@
+people:
+- age: 78
+  favorite movie: Fisherman's Friends
+  favorite song: Nelsons Blood - Fisherman's Friends
+  favourite colour: red
+  interests:
+  - The sea
+  - sea shanties
+  - Tombolas
+  - wooden appendages
+  - wooly turtlenecks
+  job: Fisherman
+  location: Cornwall
+  name: Craig
+  wants:
+  - to retire
+  - for it to be ok for a grown man to cry
+- age: 46
+  favorite movie: The Spice girls movie
+  favorite song: We're going to Ibiza - Vengaboys
+  favourite colour: red
+  interests:
+  - steel pots
+  - steel pans
+  - Tombolas
+  - Grapefruits
+  job: Regional Sales Manager
+  location: The City
+  name: Belinda
+  wants:
+  - To climb to the top of the sales career
+  - No one to find out that she's a super spy
+- age: 21
+  favorite movie: The wolf of wall street
+  favorite song: Money - Pink Floyd
+  favourite colour: red
+  interests:
+  - data
+  - credit cards
+  - personal details
+  job: Data Collection
+  location: Within 1 mile of your location
+  name: Spambot
+  wants:
+  - data
+  - credit cards
+  - personal details
+- age: unspecified
+  favorite movie: The Jungle Book
+  favorite song: King of the Swingers - King Louie
+  favourite colour: red
+  interests:
+  - Ancient ruins
+  - Swing music
+  - Power
+  job: King
+  location: Jungle
+  name: King Louie
+  wants:
+  - Man's red flower
+  - To become a man
+- age: couple 1000 years
+  favorite movie: Convoy
+  favorite song: Roll On (Eighteen Wheeler) - Alabama
+  favourite colour: red
+  interests:
+  - big robots
+  - small robots
+  - Humans
+  - Lorries
+  job: Protector
+  location: A very large shed
+  name: Optimus
+  wants:
+  - some kind of cube?
+  - the love of the people
+  - to end evil in the universe
+- age: 50
+  favorite movie: the devil wears prada
+  favorite song: sharp dressed man - ZZ Top
+  favourite colour: red
+  interests:
+  - fashion
+  - design
+  - superhero families
+  job: Fashion designer
+  location: Italy
+  name: Edna
+  wants:
+  - absolutely no capes
+  - Privacy
+  - Thicker glasses
+- age: 15
+  favorite movie: Groot
+  favorite song: Groot by Groot
+  favourite colour: red
+  interests:
+  - Groot
+  - I am
+  - Groot
+  job: Groot
+  location: Groot
+  name: Groot
+  wants:
+  - Groot
+  - Groot
+  - Groot
+  - Groot
+- age: 24
+  favorite movie: Robin hood
+  favorite song: The Archer - Taylor Swift
+  favourite colour: red
+  interests:
+  - Family
+  - Bows and Arrows
+  - Games
+  job: Volunteer
+  location: District 12
+  name: Katniss
+  wants:
+  - No more districts
+  - Love
+- age: 38
+  favorite movie: World War Z
+  favorite song: White Lines - Melle Mel
+  favourite colour: red
+  interests:
+  - The Winchester
+  - zombie killing
+  - playstation games
+  job: Electronics Retail
+  location: The City
+  name: Shaun
+  wants:
+  - to kill phil
+  - to watch it all blow over
+  - to not have a leaky pen
+- age: 30
+  favorite movie: Pulp Fiction
+  favorite song: Before he cheats - Carrie Underwood
+  favourite colour: red
+  interests:
+  - Killing Bill
+  - Katana swords
+  job: Assassin
+  location: International
+  name: Beatrix
+  wants:
+  - to kil Bill
+  - Revenge
+- age: 39
+  favorite movie: Nightcrawler
+  favorite song: Afternoon Delight - The Channel 4 News Team
+  favourite colour: red
+  interests:
+  - Dogs
+  - Milk
+  - fitness
+  - News reporting
+  job: News Anchor
+  location: Los Angeles
+  name: Ron
+  wants:
+  - Veronica to love him
+  - to be the best
+- age: 21
+  favourite colour: red
+  favourite movie: Oppenheimer
+  favourite song: definitley maybe
+  interests:
+  - sleeping
+  - walking
+  - reading
+  job: Northcoder
+  location: north
+  name: James
+  wants:
+  - find a job as a programmer
+- age: 21
+  favourite colour: red
+  favourite movie: Oppenheimer
+  favourite song: definitley maybe
+  interests:
+  - sleeping
+  - walking
+  - reading
+  job: Northcoder
+  location: north
+  name: James
+  wants:
+  - find a job as a programmer
+- age: 21
+  favourite colour: red
+  favourite movie: Oppenheimer
+  favourite song: definitley maybe
+  interests:
+  - sleeping
+  - walking
+  - reading
+  job: Northcoder
+  location: north
+  name: James
+  wants:
+  - find a job as a programmer
