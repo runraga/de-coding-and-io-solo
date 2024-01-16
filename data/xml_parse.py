@@ -52,7 +52,7 @@ def get_averages(sale_or_rent):
         average_cost_obj[f"{sale_or_rent}-{property_type}"]=round(total_property_price/number_of_properties,2)
     return average_cost_obj
 
-print({**get_averages('rent'), **get_averages('sale')})
+# print({**get_averages('rent'), **get_averages('sale')})
 
 
 # # F:
@@ -61,5 +61,13 @@ print({**get_averages('rent'), **get_averages('sale')})
 
 # # Renting has just become even more unaffordable. Increase all properties to rent by 5%.
 # # H:
+all_rentals = data['properties']['rent']
+for house_type in all_rentals:
+    for house in all_rentals[house_type]:
+        cost_str = all_rentals[house_type][house]['cost']
+        cost_num = int(cost_str[1:])
+        cost_increased = round(cost_num *1.05,2)
+        all_rentals[house_type][house]['cost'] = f"£{cost_increased}"
+print(data)
 
 # # There is a new PARK HOME property type available to rent. This home has 2 bedrooms and costs £2000. Update the data to reflect this.
